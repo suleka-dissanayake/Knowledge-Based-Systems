@@ -8,7 +8,6 @@ add_fathima(NewList) :- students(Students), append(Students, ['Fathima'], NewLis
 remove_kamal(NewList) :- students(Students), delete(Students, 'Kamal', NewList).
 reverse_students(ReverseList) :- students(Students), reverse(Students, ReverseList).
 
-% [students].
 % 1. first_student(Student).
 % 2. students_except_first(Rest).
 % 3. ravi_registered.
