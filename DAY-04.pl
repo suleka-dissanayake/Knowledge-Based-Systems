@@ -1,7 +1,7 @@
 numbers([1,2,3,4,5]).
 empty_list([]).
 
-traverse([]).
+traverse_list([]).
 traverse_list([H|T]):-
     write(H),
     nl,
