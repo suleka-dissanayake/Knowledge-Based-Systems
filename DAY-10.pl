@@ -18,3 +18,5 @@ move(state(F,W,G,F),cabbage,state(F2,W,G,F2)) :- opposite(F,F2).
 
 % move4: farmer cross alone
 move(state(F,W,G,C),alone,state(F2,W,G,C)) :- opposite(F,F2).
+
+% goal condition
