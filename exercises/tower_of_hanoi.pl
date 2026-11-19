@@ -1,23 +1,3 @@
-% ============================================================
-% Problem 02: Tower of Hanoi
-% ============================================================
-% hanoi(N, From, To, Aux, Moves)
-%   N     : number of disks
-%   From  : starting rod
-%   To    : target rod
-%   Aux   : auxiliary rod
-%   Moves : minimum number of moves needed (output)
-%
-% Idea (recursion):
-%   To move N disks From -> To:
-%     1. move the top N-1 disks From -> Aux   (using To as spare)
-%     2. move the largest disk   From -> To   (1 move)
-%     3. move the N-1 disks      Aux  -> To   (using From as spare)
-%   Moves(N) = 2*Moves(N-1) + 1  =  2^N - 1
-% ============================================================
-
-% ---- base case: no disks, nothing to move ----
-% The cut (!) stops Prolog from backtracking into the next clause.
 hanoi(0, _, _, _, 0) :- !.
 
 % ---- recursive case ----
