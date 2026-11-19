@@ -1,29 +1,7 @@
-% IT3113 Practical - Question 3
-% Map colouring of the nine provinces of Sri Lanka.
-% Use red, blue and green. Adjacent provinces must have
-% different colours.
-%
-% Province abbreviations:
-% N  = Northern
-% NW = North Western
-% NC = North Central
-% W  = Western
-% C  = Central
-% E  = Eastern
-% U  = Uva
-% SA = Sabaragamuwa
-% S  = Southern
-%
-% Adjacency is taken from the provincial map and the
-% adjacency notes on page 4 of the question paper.
-
-% Available colours.
-
 colour(red).
 colour(blue).
 colour(green).
 
-% Adjacent province pairs (each pair is listed once).
 
 adjacent(n, nw).
 adjacent(n, nc).
