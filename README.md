@@ -51,18 +51,4 @@ It focuses on **logic programming and knowledge representation** using **Prolog*
 
 ---
 
-# 🚀 Running the Programs
-
-1. Install [SWI-Prolog](https://www.swi-prolog.org/)
-2. Clone the repository
-   ```bash
-   git clone https://github.com/suleka-dissanayake/Knowledge-Based-Systems.git
-   ```
-3. Load a file and run queries
-   ```bash
-   swipl DAY-02.pl
-   ```
-
----
-
 > 📌 *This repository is maintained for academic and learning purposes.*
