@@ -14,6 +14,7 @@ It focuses on **logic programming and knowledge representation** using **Prolog*
 # 🎓 Academic Context
 
 * **Programme:** BSc. in Information Technology
+* **Semester:** 3rd Year 1st Semester
 * **Course Module:** Knowledge-Based Systems
 * **University:** University of Vavuniya, Sri Lanka
 * **Created by:** Suleka Dissanayake
