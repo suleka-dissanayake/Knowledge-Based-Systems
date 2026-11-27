@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-black?logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-This repository contains **laboratory exercises, practical implementations, and coursework** completed as part of the **Knowledge-Based Systems** module in the **Bachelor of Science in Information Technology (BSc. in IT)** program at the **University of Vavuniya, Sri Lanka**.
+This repository contains **laboratory exercises and practical implementations** completed as part of the **Knowledge-Based Systems** module in the **Bachelor of Science in Information Technology (BSc. in IT)** program at the **University of Vavuniya, Sri Lanka**.
 
 It focuses on **logic programming and knowledge representation** using **Prolog**, covering facts, rules, queries, and problem solving through day-by-day lab sessions and exercises.
 
